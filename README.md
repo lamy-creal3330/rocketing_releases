@@ -1,5 +1,5 @@
-# Release v1.0.27
+# Release v1.0.28
 
-- Build Date: 2026-01-06T08:57:35.801Z
-- App Version: 1.0.27
+- Build Date: 2026-01-08T07:26:06.777Z
+- App Version: 1.0.28
 - Note: This repository contains binary releases only. Source code is not included.

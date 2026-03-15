@@ -2,8 +2,8 @@
 
 ## Proprietary License Notice
 
-Version: v1.0.60
-Build Date (UTC): 2026-03-15T05:31:35.018Z
+Version: v1.0.61
+Build Date (UTC): 2026-03-15T05:38:15.351Z
 
 Rocketing Desktop and every binary distributed through this repository are proprietary assets.
 
